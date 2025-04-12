@@ -8,7 +8,7 @@ function App() {
       <p>
         🔗 Check it out here:{" "}
         <a
-          href="https://shopsy-git-main-jyoti-mehras-projects.vercel.app/"
+          href="https://shopsy-9cdi4p00t-jyoti-mehras-projects.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
