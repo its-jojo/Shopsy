@@ -42,13 +42,3 @@ An elegant and responsive shopping cart application built with **React** and pow
 
 ---
 
-## 📸 Screenshots
-
-> Replace these with actual images from your project
-
-| Home | Product Detail | Cart |
-|------|----------------|------|
-| ![](./screenshots/home.png) | ![](./screenshots/product.png) | ![](./screenshots/cart.png) |
-
----
-
