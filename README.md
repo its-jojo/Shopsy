@@ -1,5 +1,5 @@
 # 🛒 Shopping Cart App
-Live-project-link:![Shopping Cart App](https://shopsy-kohl.vercel.app/)
+---
 An elegant and responsive shopping cart application built with **React** and powered by the [FakeStoreAPI](https://fakestoreapi.com). This project simulates a real-world e-commerce frontend featuring product listings, user authentication, and cart functionality — all wrapped in a slick UI.
 
 ![Demo](https://shopsy-kohl.vercel.app/)
